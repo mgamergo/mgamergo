@@ -1,4 +1,4 @@
-<h1 align="center">Daft Punk in ASCII</h1>
+<h1 align="center">Daft Punk for LIFE</h1>
 
 <p align="center">
   <img src="./assets/daft-punk-helmet.png" alt="Daft Punk's split helmet drawn in white text characters on black." width="42%">
